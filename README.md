@@ -1,5 +1,8 @@
 # Eye Cancer Patient Data Analysis Report
 
+![EyeCancerPatientsDataAnalysisImage](https://github.com/user-attachments/assets/cb76c0d5-bf88-41d7-a291-2405c22c81cc)
+
+
 This report presents a comprehensive analysis of a dataset containing medical and demographic information for 5,000 patients diagnosed with eye cancer, including Melanoma, Retinoblastoma, and Lymphoma. The dataset includes patient demographics (age, gender, country), clinical details (cancer type, laterality, stage at diagnosis), treatment information (type, intensity), outcomes (survival time, outcome status), and genetic factors (genetic markers, family history). The analysis aims to uncover patterns, relationships, and predictors of patient outcomes to inform medical research and clinical practice. Below, we summarize the key findings from the statistical, survival, clustering, and predictive analyses performed.
 
 ## 1. Univariate Analysis: Understanding Patient Characteristics
